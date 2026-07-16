@@ -4,7 +4,7 @@ first we need to create a folder and then open the folder and highlight the link
  
 git init - initialize the repository
 git config -config the user.name or user.gmail
-git add . -add a files 
+git add *
 git branch
 git commit -m "main" 
 git remote add origin https://github.com/aljhonborbon03/scheduling_borbon.git
