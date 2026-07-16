@@ -1,0 +1,5 @@
+Answer B.
+
+Share The best Practices In Your Git
+
+For me git is one of the most widely used version control systems in software development because it helps developers track changes, collaborate efficiently, and maintain organized project histories. Following Git best practices not only improves productivity but also reduces errors and makes teamwork more effective.
