@@ -1,0 +1,10 @@
+A.list the workflow of using 
+
+first we need to create a folder and then open the folder and highlight the link then input cmd to open a cmd promt to direct in the folder name after we open we need to input a "git init" 
+ 
+git init - initialize the repository
+git config -config the user.name or user.gmail
+git add . -add a files 
+git branch
+git commit -m "main" 
+git remote add origin https://github.com/aljhonborbon03/scheduling_borbon.git
